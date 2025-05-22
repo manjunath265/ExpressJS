@@ -38,3 +38,14 @@ Use **Thunder Client** (or Postman) with these endpoints:
 - Delete Contact: `DELETE /api/contacts/:id`
 
 Authentication token must be included in the headers:
+
+
+
+## 🚀 How to Run
+
+```bash
+git clone https://github.com/manjunath265/ExpressJS.git
+cd mycontacts-backend
+npm install
+npm run dev
+
